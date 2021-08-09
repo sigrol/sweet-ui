@@ -2,9 +2,10 @@
   <header class="page-header">
     <div class="header-container">
       <router-link :to="{name: 'index'}">
+        <span style="font-size: 20px;padding-left: 100px">SWEET-UI</span>
         <img src="../assets/images/logo.jpg" width="80px">
       </router-link>
-      <div class="header-container-github" @click="openGithub">
+      <div class="header-container-github" @click="openGithub" style="font-size: 20px;padding-right: 100px">
         <img style="width:48px;" src="../assets/images/github.jpg"/>github
       </div>
     </div>
@@ -18,7 +19,7 @@
     },
     methods:{
       openGithub(){
-        window.open("https://github.com/sulgweb/sulg-ui/tree/release","blank")
+        window.open("https://github.com/sigrol/sweet-ui/tree/master","blank")
       }
     }
   }
