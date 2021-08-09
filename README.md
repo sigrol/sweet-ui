@@ -3,6 +3,7 @@
 <p align="center">SWEET - A Vue.js 3.0 UI library</p>
 
 * 💪 Vue 3.0 Composition API
+* 🔥 Config in Vite2.0
 * 🔥 Written in TypeScript
 
 ## Status: Beta
