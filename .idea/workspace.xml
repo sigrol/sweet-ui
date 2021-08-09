@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df9a0b7e-f957-4a59-9d49-d4d4a084ce4f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Markdown</find>
+      <find>isExpand</find>
+      <find>demoHeight</find>
+      <find>docs-demo__triangle</find>
+      <find>cheerio</find>
+      <find>markdown-it</find>
+      <find>s-fade-in-linear</find>
+      <find>isValidComponentSize</find>
+      <find>handleClick</find>
+      <find>SFormContext</find>
+      <find>.highlight-wrapper .demoEle i</find>
+      <find>plain</find>
+      <find>nativeType</find>
+      <find>el-</find>
+      <find>.page-heade</find>
+      <find>.page-header</find>
+      <find>iconClass</find>
+      <find>prompt</find>
+      <find>icon</find>
+      <find>error-fill</find>
+      <find>-fill</find>
+      <find>reeor</find>
+      <find>error</find>
+      <find>IMssageOptions</find>
+      <find>Element</find>
+      <find>closed</find>
+      <find>watch</find>
+      <find>isShowMessage</find>
+      <find>createVNode</find>
+      <find>onClose</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>sweet</replace>
+      <replace>s-</replace>
+      <replace>IMessageOptions</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/packages/utils/util.ts" />
+        <option value="$PROJECT_DIR$/packages/form/index.ts" />
+        <option value="$PROJECT_DIR$/examples/docs/install.md" />
+        <option value="$PROJECT_DIR$/examples/views/test.vue" />
+        <option value="$PROJECT_DIR$/packages/icon/src/index.ts" />
+        <option value="$PROJECT_DIR$/packages/icon/src/index.vue" />
+        <option value="$PROJECT_DIR$/examples/docs/base/icon.md" />
+        <option value="$PROJECT_DIR$/examples/App.vue" />
+        <option value="$PROJECT_DIR$/examples/dom/demo.js" />
+        <option value="$PROJECT_DIR$/examples/components/demo-block.vue" />
+        <option value="$PROJECT_DIR$/utils/utils.js" />
+        <option value="$PROJECT_DIR$/utils/strip-tags.js" />
+        <option value="$PROJECT_DIR$/vite.config.ts" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/packages/transition/src/index.vue" />
+        <option value="$PROJECT_DIR$/examples/assets/common.scss" />
+        <option value="$PROJECT_DIR$/packages/theme-default/src/common/var.scss" />
+        <option value="$PROJECT_DIR$/packages/derective/index.ts" />
+        <option value="$PROJECT_DIR$/packages/icon/index.ts" />
+        <option value="$PROJECT_DIR$/packages/derective/modules/lineClamp/index.ts" />
+        <option value="$PROJECT_DIR$/packages/derective/modules/lineClamp.ts" />
+        <option value="$PROJECT_DIR$/packages/derective/modules/lineClamp/src/index.js" />
+        <option value="$PROJECT_DIR$/packages/derective/lineClamp/index.ts" />
+        <option value="$PROJECT_DIR$/packages/directive/lineClamp/index.ts" />
+        <option value="$PROJECT_DIR$/packages/directive/lineClamp/src/lineClamp.js" />
+        <option value="$PROJECT_DIR$/packages/button/index.ts" />
+        <option value="$PROJECT_DIR$/typings/vue-shim.d.ts" />
+        <option value="$PROJECT_DIR$/packages/utils/validators.ts" />
+        <option value="$PROJECT_DIR$/packages/form/src/token.ts" />
+        <option value="$PROJECT_DIR$/packages/utils/token.ts" />
+        <option value="$PROJECT_DIR$/packages/theme-default/src/mixins/config.scss" />
+        <option value="$PROJECT_DIR$/packages/theme-default/src/transition.scss" />
+        <option value="$PROJECT_DIR$/packages/button/src/button.vue" />
+        <option value="$PROJECT_DIR$/examples/demo-styles/icon.scss" />
+        <option value="$PROJECT_DIR$/packages/theme-default/src/button.scss" />
+        <option value="$PROJECT_DIR$/examples/docs/base/button.md" />
+        <option value="$PROJECT_DIR$/examples/components/side-nav.vue" />
+        <option value="$PROJECT_DIR$/packages/message/index.ts" />
+        <option value="$PROJECT_DIR$/packages/sweet/index.ts" />
+        <option value="$PROJECT_DIR$/examples/docs/base/transition.md" />
+        <option value="$PROJECT_DIR$/examples/main.js" />
+        <option value="$PROJECT_DIR$/packages/theme-default/src/mixins/mixins.scss" />
+        <option value="$PROJECT_DIR$/packages/theme-default/src/index.scss" />
+        <option value="$PROJECT_DIR$/examples/components/header.vue" />
+        <option value="$PROJECT_DIR$/packages/theme-default/src/message.scss" />
+        <option value="$PROJECT_DIR$/examples/assets/iconfont/iconfont.json" />
+        <option value="$PROJECT_DIR$/examples/assets/iconfont/iconfont.css" />
+        <option value="$PROJECT_DIR$/examples/docs/notice/message.md" />
+        <option value="$PROJECT_DIR$/packages/message/src/types.ts" />
+        <option value="$PROJECT_DIR$/packages/message/src/message.ts" />
+        <option value="$PROJECT_DIR$/packages/message/src/index.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="76" />
+    <option name="y" value="44" />
+    <option name="width" value="1920" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="ProjectId" id="1wCIwNIRpq6IEmk6ga1eKCf3GkF" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sweet-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sweet-ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sweet-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sweet-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sweet-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sweet-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/packages/carousel/src" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="D:\web\test\vue3\mini-vue\UI\sweet-ui\node_modules\tslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="E:\web\vue\ui库\sweet-ui\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\web\vue\ui库\sweet-ui\packages\carousel\src" />
+      <recent name="E:\web\vue\ui库\sweet-ui\packages\theme-default\src" />
+      <recent name="E:\web\vue\ui库\sweet-ui\packages" />
+      <recent name="E:\web\vue\ui库\sweet-ui\examples\docs\view" />
+      <recent name="E:\web\vue\ui库\sweet-ui\packages\utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\web\vue\ui库\sweet-ui\packages\row\src" />
+      <recent name="D:\web\test\vue3\mini-vue\UI\sweet-ui\packages\derective" />
+      <recent name="D:\web\test\vue3\mini-vue\UI\sweet-ui\packages\theme-default\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df9a0b7e-f957-4a59-9d49-d4d4a084ce4f" name="Default Changelist" comment="" />
+      <created>1624585121758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624585121758</updated>
+      <workItem from="1624585125629" duration="9863000" />
+      <workItem from="1624678861950" duration="10289000" />
+      <workItem from="1624927371136" duration="18647000" />
+      <workItem from="1624958511348" duration="1985000" />
+      <workItem from="1625014028497" duration="11362000" />
+      <workItem from="1625032298390" duration="8557000" />
+      <workItem from="1625809498785" duration="1361000" />
+      <workItem from="1626683084166" duration="5027000" />
+      <workItem from="1626749079149" duration="16962000" />
+      <workItem from="1626828370147" duration="18832000" />
+      <workItem from="1627956385007" duration="24864000" />
+      <workItem from="1628036849233" duration="19612000" />
+      <workItem from="1628123365954" duration="28450000" />
+      <workItem from="1628215799543" duration="22582000" />
+      <workItem from="1628322027843" duration="17153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="102885000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="76" y="44" width="1920" height="1054" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07956989" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="TypeScript" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.3097015" side_tool="true" weight="0.37987012" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.6902985" visible="true" weight="0.14859003" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/packages/theme-default/src/common/var.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/derective/index.ts" />
+    <entry file="file://$PROJECT_DIR$/packages/derective/modules/lineClamp.ts" />
+    <entry file="file://$PROJECT_DIR$/packages/derective/modules/lineClamp/index.ts" />
+    <entry file="file://$PROJECT_DIR$/packages/derective/modules/lineClamp/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/packages/derective/lineClamp/index.ts" />
+    <entry file="file://$PROJECT_DIR$/packages/derective/lineClamp/src/lineClamp.js" />
+    <entry file="file://$PROJECT_DIR$/packages/directive/lineClamp/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/directive/lineClamp/src/lineClamp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typings/vue-test-utils.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/button/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/form/src/token.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="51" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/utils/token.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/form/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/utils/util.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/utils/validators.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/theme-default/src/mixins/function.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-434" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/demo-styles/icon.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/theme-default/src/transition.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2800">
+          <caret line="112" column="30" selection-start-line="112" selection-start-column="30" selection-end-line="112" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/components/side-nav.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="102" column="38" selection-start-line="102" selection-start-column="38" selection-end-line="102" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/message/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/icon/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/transition/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/docs/base/button.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="125">
+            <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/docs/base/transition.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="975">
+            <caret line="51" selection-start-line="51" selection-end-line="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@vue/runtime-core/dist/runtime-core.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="467" column="17" selection-start-line="467" selection-start-column="17" selection-end-line="467" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/sweet/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/theme-default/src/mixins/utils.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/theme-default/src/mixins/config.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/theme-default/src/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/theme-default/src/button.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3200">
+          <caret line="128" column="11" selection-start-line="128" selection-start-column="11" selection-end-line="128" selection-end-column="11" />
+          <folding>
+            <element signature="e#5170#6828#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/theme-default/src/mixins/_button.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="68" column="14" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/theme-default/src/mixins/mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1750">
+          <caret line="70" column="10" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+          <folding>
+            <element signature="e#2021#2262#0" />
+            <element signature="e#2348#2569#0" />
+            <element signature="e#2626#2874#0" />
+            <element signature="e#2896#2972#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/assets/common.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="186" column="29" lean-forward="true" selection-start-line="186" selection-start-column="29" selection-end-line="186" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/demo-styles/index.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/docs/base/icon.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="324">
+            <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typings/vue-shim.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/button/src/button.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="e#711#764#0" expanded="true" />
+            <element signature="e#1228#1473#0" />
+            <element signature="e#1592#2411#0" />
+            <element signature="e#2467#3164#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/assets/iconfont/iconfont.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1425" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/assets/iconfont/iconfont.eot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/assets/iconfont/iconfont.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="518" column="19" lean-forward="true" selection-start-line="518" selection-start-column="19" selection-end-line="518" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/assets/iconfont/iconfont.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="2778" column="33" lean-forward="true" selection-start-line="2778" selection-start-column="33" selection-end-line="2778" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/docs/notice/message.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="325">
+            <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/theme-default/src/message.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/message/src/types.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/message/src/message.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/message/src/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="149" lean-forward="true" selection-start-line="149" selection-end-line="149" />
+          <folding>
+            <element signature="e#597#617#0" expanded="true" />
+            <element signature="e#783#895#0" />
+            <element signature="e#2284#2316#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
